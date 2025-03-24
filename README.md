@@ -1,6 +1,5 @@
-:
-
 🏀 NBA Player Organizer (Beta)
+
 Este es un proyecto beta en fase de desarrollo y aprendizaje, diseñado para organizar y visualizar listados de jugadores de la NBA de forma sencilla.
 La idea principal es practicar conceptos básicos de programación, manejo de datos y estructuración de proyectos. Aunque el código es simple, se sientan las bases para futuras mejoras y funcionalidades más avanzadas.
 
@@ -22,6 +21,7 @@ Lenguaje: (especifica aquí el lenguaje usado, por ejemplo Python, JavaScript, e
 (Opcional: alguna librería o framework si se usa, aunque sea algo básico)
 
 🛠️ Instalación y Uso
+
 1. Clona el repositorio:
 git clone https://github.com/tuusuario/nba-player-organizer.git
 
@@ -42,5 +42,7 @@ Mejorar la estructura del código y documentación.
 Pruebas automatizadas y validación de datos.
 
 🤝 Contribuciones
+
 Este proyecto está abierto a sugerencias, consejos y mejoras.
+
 ¡Si estás aprendiendo como yo, eres bienvenido/a a colaborar!
